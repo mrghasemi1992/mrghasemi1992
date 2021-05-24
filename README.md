@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Mohammad Reza Ghasemi.
-- 👀 I’m interested in Web Technlogies, Blockchain, Algo Trading and AI.
-- 🌱 I’m currently learning Node.js and MQL.
+- 👀 I’m interested in Web Technlogies, Blockchain and AI.
+- 🌱 I’m currently learning Node.js.
 - 📫 Gmail: mrghasemi1992@gmail.com - Telegram ID: @mrghasemi1992
 
 <!---
