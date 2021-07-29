@@ -1,6 +1,8 @@
-- Hi, I’m Mohammad Reza Ghasemi.
-- I’m interested in Web Technologies, Blockchain, and AI.
-- I’m currently learning **Node.js** and **MQL4**.
+Hi, I'm Mohammad Reza Ghasemi.
+
+- I'm a Front-End Web Developer working with **React**.
+- Learning the **MERN Stack** and **Algorithmic Trading**.
+- Interested in *Blockchain*, *Cryptocurrencies*, and *AI*.
 
 ---
 
